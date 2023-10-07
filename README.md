@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BlakeCoppens
+- 👀 I’m interested in Software, Cybersecurity, and Networking.
+- 🌱 I’m currently learning Security+, Powershell, and Ubuntu.
+- 📫 How to reach me: Send a message!
